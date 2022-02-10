@@ -1,6 +1,6 @@
 [<img src="https://www.qgis.org/en/_downloads/346c98156457acb14251dbfd0b88a027/qgis-logo.svg" align="center" width="850">](https://qgis.org/)
 
-# Awesome QGis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome QGis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/totpero/awesome-qgis)
 > An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 - [Resources](#resources)
   - [Official Resources](#official-resources)
