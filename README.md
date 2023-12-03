@@ -33,6 +33,8 @@
 - [Official Training Manual](https://docs.qgis.org/3.16/en/docs/training_manual/)
 - [Official Docs](https://www.qgis.org/en/docs/index.html)
 - [API Reference](#)
+  - [Python](https://www.qgis.org/pyqgis/master/)
+  - [C++](https://www.qgis.org/api/)
 - [GitHub Repo](https://github.com/qgis/QGIS)
 - [Release Notes](https://www.qgis.org/en/site/forusers/visualchangelogs.html)
 - [Style Guide](https://www.qgis.org/en/site/getinvolved/styleguide.html)
