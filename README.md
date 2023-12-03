@@ -8,7 +8,7 @@
   - [Community](#community)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
-  - [Youtube Channels](#youtube-channels)
+  - [YouTube Channels](#youtube-channels)
   - [Official Examples](#official-examples)
   - [Tutorials](#tutorials)
   - [Examples](#examples)
