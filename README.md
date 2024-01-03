@@ -28,9 +28,9 @@
 
 ### Official Resources
 
-- [Official Desktop User Guide/Manual](https://docs.qgis.org/3.16/en/docs/user_manual/)
-- [Official Server Guide/Manual](https://docs.qgis.org/3.16/en/docs/server_manual/)
-- [Official Training Manual](https://docs.qgis.org/3.16/en/docs/training_manual/)
+- [Official Desktop User Guide/Manual](https://docs.qgis.org/3.28/en/docs/user_manual/)
+- [Official Server Guide/Manual](https://docs.qgis.org/3.28/en/docs/server_manual/)
+- [Official Training Manual](https://docs.qgis.org/3.28/en/docs/training_manual/)
 - [Official Docs](https://www.qgis.org/en/docs/index.html)
 - [API Reference](#)
   - [Python](https://www.qgis.org/pyqgis/master/)
