@@ -16,7 +16,7 @@
   - [Blog Posts](#blog-posts)
   - [Courses](#courses)
   - [Documentaries](#documentaries)
-- [Projects Using QGis](#projects-using-qgis)
+- [Projects Using QGiS](#projects-using-qgis)
   - [Open Source](#open-source)
   - [Commercial Products](#commercial-products)
 - [Components & Libraries](#components--libraries)
@@ -41,3 +41,36 @@
 - [QGis Blog](https://blog.qgis.org/)
 
 ### External Resources
+
+### Community
+
+### Conferences
+
+### Podcasts
+
+### YouTube Channels
+
+### Official Examples
+
+### Tutorials
+
+### Examples
+
+### Books
+
+### Blog Posts
+
+### Courses
+
+### Documentaries
+
+## Projects Using QGiS
+
+### Open Source
+
+### Commercial Products
+
+## Components & Libraries
+
+## Utilities
+
