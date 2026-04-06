@@ -1,3 +1,5 @@
+[<img src="https://qgis.org/styleguide/visual/qgis-logo.svg" align="center" width="850">](https://qgis.org/)
+
 # Awesome QGIS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of awesome QGIS plugins, resources, tutorials, and tools.
