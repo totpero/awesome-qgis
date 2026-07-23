@@ -51,6 +51,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 - [Shape Tools](https://plugins.qgis.org/plugins/shapetools/) - Create geodesic shapes, measure bearings, and flip coordinates.
 - [Point Sampling Tool](https://plugins.qgis.org/plugins/pointsamplingtool/) - Sample raster and polygon values at point locations.
 - [GeoCoding](https://plugins.qgis.org/plugins/GeoCoding/) - Forward and reverse address lookup via Nominatim and Google.
+- [Zornade Italian Parcel Downloader](https://plugins.qgis.org/plugins/zornade_parcel_downloader/) - Download enriched Italian cadastral parcels with 110+ attribute fields (terrain, demographics, land use, OMI valuation, hydrogeological risk) via the free Zornade API.
 
 ### Basemaps and Web Services
 
