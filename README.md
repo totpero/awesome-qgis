@@ -30,6 +30,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 - [Roadmap](https://qgis.org/resources/roadmap/) - Release schedule and development roadmap.
 - [Case Studies](https://qgis.org/project/case-studies/) - Real-world QGIS usage examples from various industries.
 - [Visual Style Guide](https://qgis.org/styleguide/) - Official branding and visual identity guidelines.
+- [UPGIS](https://upgis.com/) - Chinese GIS community portal with mapping and developer discussions.
 
 ## Documentation
 
