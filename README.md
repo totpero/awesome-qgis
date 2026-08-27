@@ -77,6 +77,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 - [SRTM-Downloader](https://plugins.qgis.org/plugins/SRTM-Downloader/) - Download SRTM elevation tiles from NASA.
 - [OpenTopography DEM Downloader](https://plugins.qgis.org/plugins/OpenTopography-DEM-Downloader/) - Download DEM data from OpenTopography.org.
 - [Freehand Raster Georeferencer](https://plugins.qgis.org/plugins/FreehandRasterGeoreferencer/) - Interactive raster georeferencing by dragging and scaling.
+- [AI Segmentation by TerraLab](https://plugins.qgis.org/plugins/AI_Segmentation/) - Point-and-click AI segmentation of buildings, trees and any object into vector polygons, with a free local mode.
 
 ### Symbology and Cartography
 
