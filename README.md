@@ -106,6 +106,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 
 - [QGIS Tutorials and Tips](https://www.qgistutorials.com/) - Comprehensive step-by-step QGIS tutorials by Ujaval Gandhi.
 - [Harvard CGA QGIS Workshop](https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0) - Academic workshop materials and video tutorials from Harvard.
+- [KLIC in QGIS](https://klicbot.nl/klic-integratie-qgis) - Opens Dutch KLIC cable and pipe deliveries in QGIS as GeoPackage or Shapefile, with an optional live OGC API Features layer.
 - [QGIS Documentation Guidelines](https://docs.qgis.org/latest/en/docs/documentation_guidelines/) - Guide for contributing to QGIS documentation.
 - [ModernGIS QGIS Certification](https://moderngis.xyz/courses/qgis-free-youtube-certification/) - Free certification program based on YouTube video tutorials.
 
