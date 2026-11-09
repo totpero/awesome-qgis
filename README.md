@@ -61,6 +61,7 @@ QGIS is a free, open-source, cross-platform geographic information system used f
 - [Street View](https://plugins.qgis.org/plugins/StreetView/) - Google Street View and other street-level imagery integration.
 - [MetaSearch Catalogue Client](https://plugins.qgis.org/plugins/MetaSearch/) - Interact with OGC CSW metadata catalogue services.
 - [GeoBasis Loader](https://plugins.qgis.org/plugins/GeoBasis_Loader/) - Quick insertion of free geoservices and basemaps.
+- [Geoscience Data Portals](https://github.com/XploraHub/geoscience-data-portals) - Connection files for the WMS and WFS services of government geological surveys, loaded through the Data Source Manager.
 
 ### Analysis and Processing
 
